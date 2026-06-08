@@ -1,2 +1,1 @@
-https://github.com/hamedcode/f2git/releases/download/media-73/x265.crf29.mp4
 https://github.com/hamedcode/f2git/releases/download/media-67/x265.crf29.10bit.mp4
