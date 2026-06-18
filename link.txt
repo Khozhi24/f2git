@@ -1,3 +1,1 @@
-https://github.com/hamedcode/f2git/releases/download/media-111/x264.mp4
 https://github.com/hamedcode/f2git/releases/download/media-110/x265_slow.mp4
-https://github.com/hamedcode/f2git/releases/download/media-109/x265_fast.mp4
